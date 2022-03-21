@@ -1,0 +1,176 @@
+/* .login-img {
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-table;
+} */
+
+/* .page {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -ms-flex-pack: center;
+  justify-content: center;
+  min-height: 100vh;
+} */
+
+.container {
+  width: 30%;
+  height: 80%;
+  margin-top: 10%;
+  border-radius: 50%;
+  /* margin-right: auto; */
+  /* margin-left: auto; */
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
+  text-align: center;
+}
+
+.login_div {
+  margin-bottom: 5%;
+}
+
+.sign-in-container {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  position: relative;
+  height: 30%;
+  padding-top: 20px;
+  background-color: aqua;
+}
+
+/* @media (max-width: 576px) {
+  .container {
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
+  }
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1140px;
+  }
+
+  #signup .container {
+    max-width: 1220px;
+  }
+}
+
+.align-items-center {
+  -ms-flex-align: center !important;
+  align-items: center !important;
+}
+
+.d-md-block {
+  display: block !important;
+}
+
+@media (min-width: 576px) {
+  .d-sm-none {
+    display: none !important;
+  }
+}
+
+.mb-md-0,
+.my-md-0 {
+  margin-bottom: 0 !important;
+}
+
+.col-md-5 {
+  -ms-flex: 0 0 41.66666667%;
+  flex: 0 0 41.66666667%;
+  max-width: 41.66666667%;
+}
+
+.container-login100 .box .social-icons {
+  position: relative;
+}
+
+.container-login100 .box ul {
+  margin: 0;
+  padding: 0;
+}
+
+.container-login100 .box ul li {
+  list-style: none;
+  float: left;
+  padding: 7px 7px;
+}
+
+.container-login100 .box ul li a {
+  margin: 0 10px;
+  font-size: 20px;
+  transition: 0.5s;
+  text-align: center;
+}
+
+.card-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  margin: 0;
+  position: relative;
+}
+
+.card-body + .card-body {
+  border-top: 1px solid #eaedf1;
+}
+
+.card-body > :last-child {
+  margin-bottom: 0;
+}
+
+@media print {
+  .card-body {
+    padding: 0;
+  }
+}
+
+.card-body-scrollable {
+  overflow: auto;
+}
+
+.wrap-login100 .card-body {
+  margin: 4rem;
+}
+
+.wrap-input100 .input-brand {
+  height: 1rem;
+  margin-right: 0;
+}
+
+.wrap-signup .header-brand-img,
+.wrap-login100 .header-brand-img {
+  /*height: 3rem;*/
+/* max-width: 300px;
+  margin-right: 0;
+}
+
+.col-login {
+  max-width: 24rem;
+}
+
+body.fixed-header .page {
+  padding-top: 4.5rem;
+ } */
